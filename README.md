@@ -2,8 +2,6 @@
 
 This is my personal portfolio blog built with Next.js, Tailwind CSS and hosted with Vercel.
 
-The original template is designed by Timothy Lin and can be found [here](https://github.com/timlrx/tailwind-nextjs-starter-blog).
-
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
